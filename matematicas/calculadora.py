@@ -15,4 +15,4 @@ restar(10,6)
 division(10,1)
 =======
 print(sumar(5,2))
->>>>>>> parent of 97b728b (Agregue la funcion de multiplicar)
+>>>>>>> parent of 97b728b (Agregue la funcion de multiplica
